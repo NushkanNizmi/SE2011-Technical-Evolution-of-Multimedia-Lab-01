@@ -37,7 +37,7 @@ By the end of this lab, students will be able to:
    - Editor area
    - Message console
 
-✅ **Important Notes**
+ **Important Notes**
 - Processing programs are called **sketches**
 - Each sketch controls what is drawn on the screen
 
@@ -63,7 +63,7 @@ void setup() {
 - `setup()` runs **only once** when the sketch starts  
 - `size(width, height)` defines the **canvas dimensions in pixels**
 
-🔹 **Part C: Understanding the Coordinate System**
+ **Part C: Understanding the Coordinate System**
 
 ### Step C1: Add the `draw()` Function
 Add this code **below** the `setup()` function:
@@ -85,11 +85,11 @@ void draw() {
 2. Change `150` to `50`  
 3. Run the sketch and observe how the circle moves  
 
-### 🧠 Learning Check
+###  Learning Check
 - Smaller **X** value → shape moves **left**  
 - Smaller **Y** value → shape moves **up**
 
-🔹 **Part D: Drawing Basic Shapes**
+ **Part D: Drawing Basic Shapes**
 
 ### Step D1: Replace the `draw()` Function
 Replace your existing `draw()` function with the following code:
@@ -114,7 +114,7 @@ void draw() {
 2. Move the **line** to a different direction  
 3. Add **one more circle** at a new position
 
-🔹 **Part E: Color & Background Control**
+ **Part E: Color & Background Control**
 
 ### Step E1: Modify the Code
 Update your `draw()` function like this:
@@ -141,7 +141,7 @@ void draw() {
 2. Try **dark** vs **light** colors
 3. Observe how color affects **visibility**
 
-🔹 **Part F: Shape Order & Layering**
+ **Part F: Shape Order & Layering**
 
 ### Step F1: Rearrange the Code Order
 Update your `draw()` function like this:
@@ -160,11 +160,11 @@ void draw() {
 - Shapes drawn **later** appear **on top**
 - The order of your code affects **visual layering**
 
-🧠 **This concept is very important for creative design.**
+ **This concept is very important for creative design.**
 
 ---
 
-## 🎨 6. Guided Creative Task
+##  6. Guided Creative Task
 
 ### Task Title: Design a Static Creative Scene
 
@@ -194,7 +194,7 @@ Save your sketch with this name:
 `SE2011_Lab01_ITNumber`
 
 
-## 📝 7. Reflection & Self-Check
+##  7. Reflection & Self-Check
 
 Answer the following questions in your notebook:
 
